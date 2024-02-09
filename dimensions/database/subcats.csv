@@ -1,0 +1,172 @@
+id,code,name,supertype_id
+80024,3001,3001 Agricultural Biotechnology,80001
+80025,3002,"3002 Agriculture, Land and Farm Management",80001
+80026,3003,3003 Animal Production,80001
+80027,3004,3004 Crop and Pasture Production,80001
+80028,3005,3005 Fisheries Sciences,80001
+80029,3006,3006 Food Sciences,80001
+80030,3007,3007 Forestry Sciences,80001
+80031,3008,3008 Horticultural Production,80001
+80032,3009,3009 Veterinary Sciences,80001
+80034,3101,3101 Biochemistry and Cell Biology,80002
+80035,3102,3102 Bioinformatics and Computational Biology,80002
+80036,3103,3103 Ecology,80002
+80037,3104,3104 Evolutionary Biology,80002
+80038,3105,3105 Genetics,80002
+80039,3106,3106 Industrial Biotechnology,80002
+80040,3107,3107 Microbiology,80002
+80041,3108,3108 Plant Biology,80002
+80042,3109,3109 Zoology,80002
+80044,3201,3201 Cardiovascular Medicine and Haematology,80003
+80045,3202,3202 Clinical Sciences,80003
+80046,3203,3203 Dentistry,80003
+80047,3204,3204 Immunology,80003
+80048,3205,3205 Medical Biochemistry and Metabolomics,80003
+80049,3206,3206 Medical Biotechnology,80003
+80050,3207,3207 Medical Microbiology,80003
+80051,3208,3208 Medical Physiology,80003
+80052,3209,3209 Neurosciences,80003
+80053,3210,3210 Nutrition and Dietetics,80003
+80054,3211,3211 Oncology and Carcinogenesis,80003
+80055,3212,3212 Ophthalmology and Optometry,80003
+80056,3213,3213 Paediatrics,80003
+80057,3214,3214 Pharmacology and Pharmaceutical Sciences,80003
+80058,3215,3215 Reproductive Medicine,80003
+80060,3301,3301 Architecture,80004
+80061,3302,3302 Building,80004
+80062,3303,3303 Design,80004
+80063,3304,3304 Urban and Regional Planning,80004
+80065,3401,3401 Analytical Chemistry,80005
+80066,3402,3402 Inorganic Chemistry,80005
+80067,3403,3403 Macromolecular and Materials Chemistry,80005
+80068,3404,3404 Medicinal and Biomolecular Chemistry,80005
+80069,3405,3405 Organic Chemistry,80005
+80070,3406,3406 Physical Chemistry,80005
+80071,3407,3407 Theoretical and Computational Chemistry,80005
+80073,3501,"3501 Accounting, Auditing and Accountability",80006
+80074,3502,"3502 Banking, Finance and Investment",80006
+80075,3503,3503 Business Systems In Context,80006
+80076,3504,3504 Commercial Services,80006
+80077,3505,3505 Human Resources and Industrial Relations,80006
+80078,3506,3506 Marketing,80006
+80079,3507,"3507 Strategy, Management and Organisational Behaviour",80006
+80080,3508,3508 Tourism,80006
+80081,3509,"3509 Transportation, Logistics and Supply Chains",80006
+80083,3601,"3601 Art History, Theory and Criticism",80007
+80084,3602,3602 Creative and Professional Writing,80007
+80085,3603,3603 Music,80007
+80086,3604,3604 Performing Arts,80007
+80087,3605,3605 Screen and Digital Media,80007
+80088,3606,3606 Visual Arts,80007
+80090,3701,3701 Atmospheric Sciences,80008
+80091,3702,3702 Climate Change Science,80008
+80092,3703,3703 Geochemistry,80008
+80093,3704,3704 Geoinformatics,80008
+80094,3705,3705 Geology,80008
+80095,3706,3706 Geophysics,80008
+80096,3707,3707 Hydrology,80008
+80097,3708,3708 Oceanography,80008
+80098,3709,3709 Physical Geography and Environmental Geoscience,80008
+80100,3801,3801 Applied Economics,80009
+80101,3802,3802 Econometrics,80009
+80102,3803,3803 Economic Theory,80009
+80104,3901,3901 Curriculum and Pedagogy,80010
+80105,3902,"3902 Education Policy, Sociology and Philosophy",80010
+80106,3903,3903 Education Systems,80010
+80107,3904,3904 Specialist Studies In Education,80010
+80109,4001,4001 Aerospace Engineering,80011
+80110,4002,4002 Automotive Engineering,80011
+80111,4003,4003 Biomedical Engineering,80011
+80112,4004,4004 Chemical Engineering,80011
+80113,4005,4005 Civil Engineering,80011
+80114,4006,4006 Communications Engineering,80011
+80115,4007,"4007 Control Engineering, Mechatronics and Robotics",80011
+80116,4008,4008 Electrical Engineering,80011
+80117,4009,"4009 Electronics, Sensors and Digital Hardware",80011
+80118,4010,4010 Engineering Practice and Education,80011
+80119,4011,4011 Environmental Engineering,80011
+80120,4012,4012 Fluid Mechanics and Thermal Engineering,80011
+80121,4013,4013 Geomatic Engineering,80011
+80122,4014,4014 Manufacturing Engineering,80011
+80123,4015,4015 Maritime Engineering,80011
+80124,4016,4016 Materials Engineering,80011
+80125,4017,4017 Mechanical Engineering,80011
+80126,4018,4018 Nanotechnology,80011
+80127,4019,4019 Resources Engineering and Extractive Metallurgy,80011
+80129,4101,4101 Climate Change Impacts and Adaptation,80012
+80130,4102,4102 Ecological Applications,80012
+80131,4103,4103 Environmental Biotechnology,80012
+80132,4104,4104 Environmental Management,80012
+80133,4105,4105 Pollution and Contamination,80012
+80134,4106,4106 Soil Sciences,80012
+80136,4201,4201 Allied Health and Rehabilitation Science,80013
+80137,4202,4202 Epidemiology,80013
+80138,4203,4203 Health Services and Systems,80013
+80139,4204,4204 Midwifery,80013
+80140,4205,4205 Nursing,80013
+80141,4206,4206 Public Health,80013
+80142,4207,4207 Sports Science and Exercise,80013
+80143,4208,"4208 Traditional, Complementary and Integrative Medicine",80013
+80145,4301,4301 Archaeology,80014
+80146,4302,"4302 Heritage, Archive and Museum Studies",80014
+80147,4303,4303 Historical Studies,80014
+80149,4401,4401 Anthropology,80015
+80150,4402,4402 Criminology,80015
+80151,4403,4403 Demography,80015
+80152,4404,4404 Development Studies,80015
+80153,4405,4405 Gender Studies,80015
+80154,4406,4406 Human Geography,80015
+80155,4407,4407 Policy and Administration,80015
+80156,4408,4408 Political Science,80015
+80157,4409,4409 Social Work,80015
+80158,4410,4410 Sociology,80015
+80180,4601,4601 Applied Computing,80017
+80181,4602,4602 Artificial Intelligence,80017
+80182,4603,4603 Computer Vision and Multimedia Computation,80017
+80183,4604,4604 Cybersecurity and Privacy,80017
+80184,4605,4605 Data Management and Data Science,80017
+80185,4606,4606 Distributed Computing and Systems Software,80017
+80186,4607,"4607 Graphics, Augmented Reality and Games",80017
+80187,4608,4608 Human-Centred Computing,80017
+80188,4609,4609 Information Systems,80017
+80189,4610,4610 Library and Information Studies,80017
+80190,4611,4611 Machine Learning,80017
+80191,4612,4612 Software Engineering,80017
+80192,4613,4613 Theory Of Computation,80017
+80194,4701,4701 Communication and Media Studies,80018
+80195,4702,4702 Cultural Studies,80018
+80196,4703,4703 Language Studies,80018
+80197,4704,4704 Linguistics,80018
+80198,4705,4705 Literary Studies,80018
+80200,4801,4801 Commercial Law,80019
+80201,4802,4802 Environmental and Resources Law,80019
+80202,4803,4803 International and Comparative Law,80019
+80203,4804,4804 Law In Context,80019
+80204,4805,4805 Legal Systems,80019
+80205,4806,4806 Private Law and Civil Obligations,80019
+80206,4807,4807 Public Law,80019
+80208,4901,4901 Applied Mathematics,80020
+80209,4902,4902 Mathematical Physics,80020
+80210,4903,4903 Numerical and Computational Mathematics,80020
+80211,4904,4904 Pure Mathematics,80020
+80212,4905,4905 Statistics,80020
+80214,5001,5001 Applied Ethics,80021
+80215,5002,5002 History and Philosophy Of Specific Fields,80021
+80216,5003,5003 Philosophy,80021
+80217,5004,5004 Religious Studies,80021
+80218,5005,5005 Theology,80021
+80220,5101,5101 Astronomical Sciences,80022
+80221,5102,"5102 Atomic, Molecular and Optical Physics",80022
+80222,5103,5103 Classical Physics,80022
+80223,5104,5104 Condensed Matter Physics,80022
+80224,5105,5105 Medical and Biological Physics,80022
+80225,5106,5106 Nuclear and Plasma Physics,80022
+80226,5107,5107 Particle and High Energy Physics,80022
+80227,5108,5108 Quantum Physics,80022
+80228,5109,5109 Space Sciences,80022
+80229,5110,5110 Synchrotrons and Accelerators,80022
+80231,5201,5201 Applied and Developmental Psychology,80023
+80232,5202,5202 Biological Psychology,80023
+80233,5203,5203 Clinical and Health Psychology,80023
+80234,5204,5204 Cognitive and Computational Psychology,80023
+80235,5205,5205 Social and Personality Psychology,80023
